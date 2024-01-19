@@ -1,0 +1,15 @@
+.banner {
+    background-color: rgb(171, 14, 243);
+    width: 100%;
+    height: 150px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, sans-serif;
+}
+
+
